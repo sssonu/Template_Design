@@ -1,5 +1,5 @@
 ### Pricing Template
-[Here is the link ](https://sssonu.github.io/Pricing-Template/)
+[Here is the link ](https://sssonu.github.io/Template_Design/)
 
 ### Snapshot
 
